@@ -6,7 +6,7 @@ Interceptor.attach(Module.findExportByName(null, 'dlopen'), {
 		if(this.path.indexOf('libil2cpp.so') !== -1) {
 			var il2cpp = Module.findBaseAddress('libil2cpp.so');
 			console.error('[!] il2cpp : ' + il2cpp);
-			var LoadMetaDataFile = il2cpp.add(0xvalue);
+			var LoadMetaDataFile = il2cpp.add(0xValue);
 			Interceptor.attach(LoadMetaDataFile, {
 				onLeave: function(retval) {
 					console.error('[!] LoadMetaDataFile retval : ' + retval);
