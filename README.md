@@ -13,7 +13,7 @@ Frida Script: https://raw.githubusercontent.com/IroniaTheMaster/Descrypt-global-
 
 
 
-Wiki: https://github.com/IroniaTheMaster/Descrypt-global-metadata.dat/wiki/Descrypt-global-metadata-First-Method
+Wiki: ➡https://github.com/IroniaTheMaster/Descrypt-global-metadata.dat/wiki/Introduction-to-encrypted-global-metadata⬅
 
 🌟Reference:
 
