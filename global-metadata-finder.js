@@ -15,3 +15,4 @@ Interceptor.attach(Module.findExportByName(null, 'dlopen'), {
 		}
 	}
 });
+//https://velog.io/@koo00/17
