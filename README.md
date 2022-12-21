@@ -25,6 +25,8 @@ Wiki: https://github.com/IroniaTheMaster/Descrypt-global-metadata.dat/wiki/Descr
 
 ➡ https://bbs.pediy.com/thread-273503.html
 
+➡ https://github.com/Perfare/Il2CppDumper
+
 ➡ https://katyscode.wordpress.com/2021/02/23/il2cpp-finding-obfuscated-global-metadata/ and the last one, which inspired me to do this, is katy
 
 🌟
