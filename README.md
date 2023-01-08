@@ -1,17 +1,6 @@
 # Descrypt global-metadata.dat
 How Descrypt global-metadata.dat from Unity Games
 
-Frida Script: https://raw.githubusercontent.com/IroniaTheMaster/Descrypt-global-metadata.dat/main/global-metadata-finder.js
-
-
-
-
-
-
-
-
-
-
 
 ☄ Wiki: https://github.com/IroniaTheMaster/Descrypt-global-metadata.dat/wiki/Introduction-to-encrypted-global-metadata
 
