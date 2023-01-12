@@ -1,6 +1,9 @@
 # Descrypt global-metadata.dat
 How Descrypt global-metadata.dat from Unity Games
 
+**Compare_Metadata.py execute cmd add global-metadata and 2global-metadata.dat in the same folder** - py Compare_Metadata.py
+
+
 
 ☄ Wiki: https://github.com/IroniaTheMaster/Descrypt-global-metadata.dat/wiki/Introduction-to-encrypted-global-metadata
 
